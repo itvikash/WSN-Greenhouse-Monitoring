@@ -20,6 +20,7 @@ A low-power, scalable **Wireless Sensor Network (WSN)** for smart greenhouse mon
 
 📖 **New to this project?** See [SETUP.md](SETUP.md) for full wiring, library, and configuration instructions.
 
+📄 Full project report: [Docs/WSN Greenhouses Monitoring.pdf](Docs/WSN%20Greenhouses%20Monitoring.pdf)
 ---
 
 ## 📖 Overview
