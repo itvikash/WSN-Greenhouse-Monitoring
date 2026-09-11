@@ -129,26 +129,7 @@ The system consists of **three nodes**:
 
 ---
 
-## Suggested Repository Structure
 
-```
-WSN-Greenhouse-Monitoring/
-├── SoilNode/
-│   └── SoilNode.ino
-├── GasNode/
-│   └── GasNode.ino
-├── EnvironmentNode/
-│   └── EnvironmentNode.ino
-├── circuit_diagrams/
-│   ├── soil_node.png
-│   ├── gas_node.png
-│   └── environment_node.png
-├── docs/
-│   └── PBL_Report.pdf
-├── images/
-│   └── blynk_dashboard.png
-└── README.md
-```
 
 ---
 
@@ -158,7 +139,3 @@ WSN-Greenhouse-Monitoring/
 GitHub: [@itvikash](https://github.com/itvikash)
 
 ---
-
-## License
-
-This project is licensed under the MIT License — feel free to use and modify it for educational purposes.
